@@ -1,0 +1,11 @@
+hybrid-webhook-server/
+├── src/
+│   ├── server.ts
+│   ├── config.ts
+│   ├── pgp.ts
+│   ├── canonical.ts
+│
+├── package.json
+├── tsconfig.json
+├── README.md
+└── .gitignore
